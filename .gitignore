@@ -1,0 +1,5 @@
+dags/lib_helper/__pycache__/
+dags/__pycache__/
+dags/datas_stock/__pycache__/
+env_time_series/
+logs/
